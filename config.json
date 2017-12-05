@@ -1,0 +1,8 @@
+{
+    "local_ip":"127.0.0.1",
+    "local_port":12344,
+    "remote_ip":"127.0.0.1",
+    "remote_port":12345,
+    "period":5,
+    "timeout":3
+}
