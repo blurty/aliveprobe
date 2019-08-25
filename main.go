@@ -8,8 +8,9 @@ package main
 
 import (
 	"flag"
-	"github.com/blurtheart/aliveprobe/connection"
 	"log"
+
+	"github.com/blurty/aliveprobe/connection"
 )
 
 func main() {
